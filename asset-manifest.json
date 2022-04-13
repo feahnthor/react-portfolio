@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/feahnthor/react-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/feahnthor/react-portfolio/static/js/main.d5e6722b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/feahnthor/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo.svg": "/feahnthor/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/feahnthor/react-portfolio/index.html",
+    "main.073c9b0a.css.map": "/feahnthor/react-portfolio/static/css/main.073c9b0a.css.map",
+    "main.d5e6722b.js.map": "/feahnthor/react-portfolio/static/js/main.d5e6722b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/feahnthor/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d5e6722b.js"
+  ]
+}
